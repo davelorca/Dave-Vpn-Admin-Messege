@@ -1,6 +1,4 @@
-{ "SendMessage":1, "MyMessage":
-
-"NOTICE Update your Config now 💯 NEW  SERVERS 💯
+{ "SendMessage":1, "MyMessage": "NOTICE Update your Config now 💯 NEW  SERVERS 💯
 
 👉 🇺🇲
 👉 🇯🇵
